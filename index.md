@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Home
 ---
 
 <img src="/public/anaraposo.jpg" class="left-200">
