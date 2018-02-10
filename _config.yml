@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               Ana Raposo
+tagline:             ''
 url:                 http://getpoole.com
 paginate:            1
 baseurl:             ""
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Ana Raposo
+  url:               ''
+  email:             ''
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              ''
 
 # Gems
 gems:
