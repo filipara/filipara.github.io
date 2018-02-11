@@ -1,6 +1,4 @@
-## Formating instructions
-
-----
+# Formating instructions
 
 `# Large title`
 
