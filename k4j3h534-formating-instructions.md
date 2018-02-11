@@ -1,4 +1,7 @@
-# Formating instructions
+---
+layout: page
+title: Formatting instructions
+---
 
 `# Large title`
 
