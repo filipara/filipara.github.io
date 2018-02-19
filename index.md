@@ -3,17 +3,14 @@ layout: page
 title: Home
 ---
 
-<img src="/public/anaraposo.jpg" class="left-200">
+Filipa Raposo was born in 1979 in Lisbon, Portugal.
 
-Memory is expressed in a dynamic manner. It is not a passive storehouse, it is the result of interactions between cues, goals and knowledge. My research focuses on understanding the cognitive and neural dynamics of episodic and semantic memory. What neural aspects are common and distinct when retrieving specific past experiences vs. general knowledge about the world? How does semantic information improve or hinder recollection of past events? How does the prefrontal cortex interact with temporal-parietal regions to mediate memory and knowledge? I use cognitive and neuroimaging (fMRI) methods to investigate how different brain regions cooperate to support memory retrieval and expression of knowledge.
+After four years studying painting in the Universidade de Belas Artes in Lisbon, she moved to Berlin in 2003.
+From 2003 to 2006 she studied Fine Arts at the Universität der Künste zu Berlin (UdK-Ber- lin) with Leiko Ikemura and later with Stan Douglas.
 
-I received my PhD from the University of Cambridge where I studied the organisation of semantic memory under the supervision of Lorraine Tyler and Helen Moss. I then joined Ian Dobbins and Scott Huettel Labs at Duke University to investigate the neural correlates of episodic memory retrieval. Currently, I am a researcher at the Center for Psychological Research at the University of Lisbon. My research is funded by the Foundation for Science and Technology (C2008-UL-CP-2 and PTDC/PSI-PCO/113774/2009).
+In 2006 she obtained her Diploma in Fine Arts and was entitled with the Meisterschüler in the class of Stan Douglas & Hito Steyerl.
 
-**Address:** \\
-Centro de Investigação em Psicologia \\
-Faculdade de Psicologia \\
-Alameda da Universidade \\
-1649-013 Lisboa, Portugal
+In 2008 she earned a Meisterschüler in Fine Arts being awarded with the Meisterschüler prize of distinction by the UdK-Berlin.
+During her studies in Berlin and in the following years she has been entitled with sev- eral grants and artist residencies and has exhibited her work in Canada, USA, Australia, Spain, Portugal, Morocco, Russia and Germany.
 
-**E-mail:** \\
-alraposo [at] fp.ul.pt
+Lives and works in Berlin.
