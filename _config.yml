@@ -2,11 +2,11 @@
 permalink:           pretty
 
 # Setup
-title:               Ana Raposo
+title:               Filipa Raposo
 tagline:             ''
-url:                 http://getpoole.com
+url:                 ''
 paginate:            1
-baseurl:             ""
+baseurl:             ''
 
 # Assets
 #
@@ -17,7 +17,7 @@ sass:
 
 # About/contact
 author:
-  name:              Ana Raposo
+  name:              Filipa Raposo
   url:               ''
   email:             ''
 
