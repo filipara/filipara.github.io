@@ -3,7 +3,8 @@ layout: page
 title: Home
 ---
 
-![bio 1](/public/bio_img1.png)
+<img src="/public/bio_img1.png">
+
 
 Filipa Raposo was born in 1979 in Lisbon, Portugal.
 
