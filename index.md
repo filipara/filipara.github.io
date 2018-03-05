@@ -3,6 +3,8 @@ layout: page
 title: Home
 ---
 
+![bio 1](/public/bio_img1.png)
+
 Filipa Raposo was born in 1979 in Lisbon, Portugal.
 
 After four years studying painting in the Universidade de Belas Artes in Lisbon, she moved to Berlin in 2003.
