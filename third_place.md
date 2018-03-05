@@ -3,7 +3,7 @@ layout: page
 title: Third place
 ---
 
-**Black white slide projection, loop**
+**Black and white slide projection, loop**
 
 <img src="/public/aporias_1.png">
 
