@@ -27,6 +27,8 @@ _Super 8 Film_
 
 <img src="/public/2017super8 mesa.jpg">
 
+<img src="/public/video vela.jpg">
+
 HD Video 9:12, sound, loop
 
-<img src="/public/video vela.jpg">
+
