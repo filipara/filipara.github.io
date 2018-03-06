@@ -19,8 +19,6 @@ _C-prints, variable dimensions, 2006_
 
 <img src="/public/homemespelho-druck-110x160.jpg">
 
-<img src="/public/casota privada.jpg">
-
 <img src="/public/25atalho1_35mm.jpg">
 
 <img src="/public/2017 madrid barajas limpo.jpg">
