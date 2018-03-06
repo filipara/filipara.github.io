@@ -3,7 +3,7 @@ layout: page
 title: Third place
 ---
 
-**Black and white slide projection (loop, 32 slides)/ c-print (60x75cm)**
+**Black and white slide projection (loop, 32 slides) / c-print (60x75cm)**
 
 <img src="/public/01casco_submarino+fumo_focado.jpg">
 
