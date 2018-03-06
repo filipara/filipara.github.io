@@ -27,8 +27,6 @@ _Mohamed's film sets_
 
 <img src="/public/casas fantasma maroc.jpg">
 
-<img src="/public/grafiti.jpg">
-
 _HD Video, sound, 43min._
 
 <img src="/public/mirari frames1.jpg">
