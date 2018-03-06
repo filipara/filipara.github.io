@@ -11,20 +11,20 @@ title: Third place
 
 <img src="/public/03hinterhof.jpg">
 
-<img src="/public/07ceu buraco Kopie.jpg"
+<img src="/public/07ceu buraco Kopie.jpg">
 
-<img src="/public/08 paisagemUSA+feixe luz Kopie.jpg"
+<img src="/public/08 paisagemUSA+feixe luz Kopie.jpg">
 
-<img src="/public/14 afeganistao 2+ 3Hs-final Kopie.jpg"
+<img src="/public/14 afeganistao 2+ 3Hs-final Kopie.jpg">
 
-<img src="/public/16 monte roxoBNe Kopie.jpg"
+<img src="/public/16 monte roxoBNe Kopie.jpg">
 
-<img src="/public/18transportamontes3.jpg"
+<img src="/public/18transportamontes3.jpg">
 
-<img src="/public/03hinterhof.jpg"
+<img src="/public/03hinterhof.jpg">
 
-<img src="/public/03hinterhof.jpg"
+<img src="/public/03hinterhof.jpg">
 
-<img src="/public/35arvore voa cor.jpg"
+<img src="/public/35arvore voa cor.jpg">
 
-<img src="/public/04sugadorgases-2.jpg"
+<img src="/public/04sugadorgases-2.jpg">
