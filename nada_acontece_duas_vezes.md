@@ -15,7 +15,7 @@ _C-prints, variable dimensions, 2006_
 
 <img src="/public/Sra Manuela.jpg">
 
-2017 oneeyedroom focado2-FINAL.jpg">
+<img src="/public/2017 oneeyedroom focado2-FINAL.jpg">
 
 <img src="/public/homemespelho-druck-110x160.jpg">
 
