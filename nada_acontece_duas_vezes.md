@@ -31,4 +31,4 @@ _Super 8 Film_
 
 HD Video 9:12, sound, loop
 
-<img src="/public/vela.jpg">
+<img src="/public/video vela.jpg">
