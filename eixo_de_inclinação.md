@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aporias
+title: Eixo de inclinação
 ---
 
 **Photography, 35mm color slides projection, Super 8 film, Video**
