@@ -19,11 +19,7 @@ C-prints, 100x100, 2006
 
 2017 oneeyedroom focado2-FINAL.jpg">
 
-35mm color slides, projection, loop
-
 <img src="/public/homem espelho.jpg">
-
-<img src="/public/06Homemespelho-2b 35mm.jpg">
 
 <img src="/public/14terratortapau.jpg">
 
