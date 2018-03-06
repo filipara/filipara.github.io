@@ -21,7 +21,7 @@ title: Third place
 
 <img src="/public/18transportamontes3.jpg">
 
-<img src="/public/15 escombros 1+2maq Kopie.jpg>
+<img src="/public/15 escombros 1+2maq Kopie.jpg">
 
 <img src="/public/04sugadorgases-2.jpg">
 
