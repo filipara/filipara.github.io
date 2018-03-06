@@ -5,10 +5,14 @@ title: Eixo de inclinação
 
 **Photography, 35mm color slides projection, Super 8 film, Video**
 
-<img src="/public/aporias_1.png">
+C-prints, 100x100, 2006
 
-c-print 100x100cm
+<img src="/public/H5balas_final_6x6_peq.jpg">
 
-<img src="/public/aporias_2.png">
+<img src="/public/vela.jpg">
 
-<img src="/public/aporias_3.png">
+<img src="/public/peixe_vulto.jpg">
+
+<img src="/public/sr._joao.jpg">
+
+<img src="/public/homem_espelho.jpg">
