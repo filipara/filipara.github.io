@@ -3,7 +3,6 @@ layout: page
 title: Nada acontece duas vezes
 ---
 
-**Photography, Super 8 film, Video**
 
 _C-prints, variable dimensions, 2006_
 
