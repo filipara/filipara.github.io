@@ -17,9 +17,7 @@ C-prints, 100x100, 2006
 
 <img src="/public/Sra Manuela.jpg">
 
-<img src="/public/Sra Manuela.jpg">
-
-2017 oneeyedroom focado2-FINAL.jpg
+2017 oneeyedroom focado2-FINAL.jpg">
 
 35mm color slides, projection, loop
 
