@@ -9,7 +9,7 @@ _Mohamed's film sets_
 
 <img src="/public/altar de mohamed.jpg">
 
-<img src="/public/mohamed berbou.jpg">
+<img src="/public/Mohamed.jpg">
 
 <img src="/public/nat morta mhmed copy.jpg">
 
