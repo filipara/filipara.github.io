@@ -29,4 +29,4 @@ _HD Video 9:12, sound, loop_
 
 _Super 8 Film_
 
-<img src="/public/2017super8 mesa.jpg">
+<img src="/public/super8 mesa.jpg">
