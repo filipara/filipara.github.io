@@ -33,7 +33,7 @@ _Centro Cultural Montehermoso 2011_
 
 <img src="/public/cascata gelada small.jpg">
 
-_"Film in film", 16mm projection (loop)_
+_"Film in film", 16mm projection, loop_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
