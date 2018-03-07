@@ -11,9 +11,9 @@ title: Laika
 
 <img src="/public/2017 cortinas limpo.jpg">
 
-<img src="/public/banff janelas flash.jpg">
-
 <img src="/public/2017 banff TV lounge.jpg">
+
+<img src="/public/banff janelas flash.jpg">
 
 <img src="/public/space room sound booth rashad limpo.jpg">
 
