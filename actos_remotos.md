@@ -29,15 +29,15 @@ _"Untitled (satélite artifical)"_
 
 <img src="/public/colagem chines 2 frames.jpg">
 
-_"Untitled (satélite artifical)", collage, 25x30cm wood frame _
+_"artifical satelite", collage, 25x30cm wood frame _
 
 <img src="/public/fata morgana 1 portfolio.jpg">
 
-_Detail_
+_"artificial satelite", detail_
 
 <img src="/public/fata morgana 2 portfolio.jpg">
 
-_Detail_
+_"artificial satelite", detail_
 
 _"Actos remotos", C-prints, variable dimensions_
 
