@@ -2,6 +2,9 @@
 layout: page
 title: Remote acts
 ---
+**2010-2011**
+
+<img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
 <img src="/public/actos remotos geral(7).jpg">
 
