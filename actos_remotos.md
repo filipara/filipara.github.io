@@ -3,7 +3,15 @@ layout: page
 title: Actos remotos
 ---
 
-_C-print 100x145cm 
+_Centro Cultural Montehermoso 2011_
+
+<img src="/public/actos remotos geral(7).jpg">
+
+<img src="/public/actos remotos geral(4).jpg">
+
+<img src="/public/actos remotos geral (5).jpg">
+
+_C-print 100x145cm_
 
 <img src="/public/farrallyHall final 100x155_bea 40x25 para PILAR.jpg">
 
@@ -16,6 +24,8 @@ _16mm projection (loop)_
 _collages, vaiable dimensions_
 
 <img src="/public/colagens fata morgana+montanha ponte.jpg">
+
+<img src="/public/actos remotos geral (1).jpg">
 
 <img src="/public/colagens parede.jpg">
 
