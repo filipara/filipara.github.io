@@ -17,8 +17,8 @@ title: Laika
 
 <img src="/public/space room sound booth rashad limpo.jpg">
 
-<img src="/public/montanhas banff.jpg">
-
 <img src="/public/satelite1b final peq.jpg">
 
 <img src="/public/satelite4-a peq_+escuro.jpg">
+
+<img src="/public/montanhas banff.jpg">
