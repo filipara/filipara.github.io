@@ -15,7 +15,7 @@ _16mm projection (loop)_
 
 <img src="/public/cascata gelada small.jpg">
 
-_collages, vaiable dimensions_
+_collages, variable dimensions_
 
 <img src="/public/colagens fata morgana+montanha ponte.jpg">
 
@@ -23,11 +23,11 @@ _collages, vaiable dimensions_
 
 <img src="/public/colagens parede.jpg">
 
+<img src="/public/colagem chines 2 frames.jpg">
+
 <img src="/public/fata morgana 1 portfolio.jpg">
 
 <img src="/public/fata morgana 2 portfolio.jpg">
-
-<img src="/public/colagem chines 2 frames.jpg">
 
 _C-prints, variable dimensions_
 
