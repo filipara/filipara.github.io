@@ -30,7 +30,7 @@ _"Remote acts", c-prints, variable dimensions_
 
 <img src="/public/pinhole espelho final portfolio.jpg">
 
-_"Pupile and Pinhole", 70x70cm, 80x100cm,  
+_"Pupile and Pinhole", c-prints, 50x50cm, 80x100cm_  
 
 
 
