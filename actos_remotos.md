@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Actos remotos
+title: Remote acts
 ---
 
 <img src="/public/actos remotos geral(7).jpg">
@@ -17,17 +17,13 @@ _"Film in film", 16mm projection (loop)_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
-<img src="/public/colagens fata morgana+montanha ponte.jpg">
+**"Artificial satelite", collages, variable dimensions**
 
-_"Untitled (satélite artifical)", collages, wood frame, variable dimensions_
+<img src="/public/colagens fata morgana+montanha ponte.jpg">
 
 <img src="/public/actos remotos geral (1).jpg">
 
-_Installation view_
-
 <img src="/public/colagens parede.jpg">
-
-_"Untitled (satélite artifical)"_
 
 <img src="/public/colagem chines 2 frames.jpg">
 
@@ -35,15 +31,13 @@ _"artifical satelite", collage, 25x30cm wood frame_
 
 <img src="/public/fata morgana 1 portfolio.jpg">
 
-_"artificial satelite", detail_
-
 <img src="/public/fata morgana 2 portfolio.jpg">
 
-_"artificial satelite", detail_
+_"artificial satelite", collage, details_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
-_C-prints, variable dimensions_
+**"Remote acts", c-prints, variable dimensions**
 
 <img src="/public/actos remotos geral(4).jpg">
 
