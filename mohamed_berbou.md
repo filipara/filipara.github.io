@@ -3,9 +3,11 @@ layout: page
 title: Mohamed Berbou
 ---
 
-**C-prints, HD Video, Morocco 2012-13**
+**Morocco 2012-13**
 
-_Mohamed's film sets_
+<img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+
+**"Mohamed's film sets", c-prints, variable dimensions**
 
 <img src="/public/altar de mohamed.jpg">
 
@@ -27,7 +29,9 @@ _Mohamed's film sets_
 
 <img src="/public/casas fantasma maroc.jpg">
 
-_HD Video, sound, 43min._
+<img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+
+**HD Video, sound, 43min.**
 
 <img src="/public/mirari frames1.jpg">
 
