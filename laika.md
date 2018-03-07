@@ -19,4 +19,4 @@ title: Laika
 
 <img src="/public/satelite1b final peq.jpg">
 
-<img src="/public/satelite4-a peq FINAL.jpg">
+<img src="/public/satelite4-a peq_+escuro.jpg">
