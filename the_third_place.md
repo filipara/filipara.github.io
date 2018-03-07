@@ -9,8 +9,6 @@ _Banff Center for the arts, Canada, 2008_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
-**35mm slide projection, b/w, loop**
-
 <img src="/public/01casco_submarino+fumo_focado.jpg">
 
 <img src="/public/02arvore sombra Kopie.jpg">
@@ -30,6 +28,8 @@ _Banff Center for the arts, Canada, 2008_
 <img src="/public/15 escombros 1+2maq Kopie.jpg">
 
 <img src="/public/04sugadorgases-2.jpg">
+
+_Series of 35mm slide projection, b/w, loop_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
