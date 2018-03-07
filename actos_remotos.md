@@ -7,6 +7,8 @@ title: Remote acts
 
 _Centro Cultural Montehermoso 2011_
 
+<img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+
 **"Remote acts", c-prints, variable dimensions**
 
 <img src="/public/actos remotos geral(4).jpg">
