@@ -26,7 +26,7 @@ _Centro Cultural Montehermoso 2011_
 
 _"Remote acts", c-prints, variable dimensions_
 
-<img src="/public/sombra sem fila 2.jpg">
+<img src="/public/fila sombra portfolio.jpg">
 
 _Chorus, c-print, 70x80cm_
 
