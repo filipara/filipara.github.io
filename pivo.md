@@ -9,7 +9,7 @@ _"When a clock is seen from the side it no longer tells the time", König Galeri
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
-_C-prints, variable dimensions_
+**C-prints, variable dimensions**
 
 <img src="/public/vela.jpg">
 
