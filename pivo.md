@@ -4,7 +4,8 @@ title: Pivô
 ---
 ** Photography, Super 8 film, 16mm film, HD video, 2006-2007**  
 
-_C-prints, variable dimensions, 2006_
+
+_C-prints, variable dimensions_
 
 <img src="/public/vela.jpg">
 
