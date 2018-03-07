@@ -43,9 +43,9 @@ _HD Video on television, 9:12, sound, loop_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
-_Super 8 Film projection, black and white, no sound, loop_
-
 <img src="/public/super8 mesa.jpg">
+
+_Super 8 Film projection, black and white, no sound, loop_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
