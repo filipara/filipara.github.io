@@ -38,8 +38,6 @@ _"Film in film", 16mm projection, loop_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
-**"Artificial satelite", collages, variable dimensions**
-
 <img src="/public/colagens fata morgana+montanha ponte.jpg">
 
 <img src="/public/actos remotos geral (1).jpg">
@@ -52,4 +50,6 @@ _"Film in film", 16mm projection, loop_
 
 <img src="/public/fata morgana 2 portfolio.jpg">
 
-<img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+_"Artificial satelite", collages, variable dimensions_
+
+
