@@ -3,13 +3,17 @@ layout: page
 title: Actos remotos
 ---
 
-**C-prints, 16mm projection (loop), collages**
+_C-print 100x145cm 
 
 <img src="/public/farrallyHall final 100x155_bea 40x25 para PILAR.jpg">
 
-<img src="/public/cascata gelada small.jpg">
+_16mm projection (loop)_
 
 <img src="/public/actos remotos expo fotos+16mm.jpg">
+
+<img src="/public/cascata gelada small.jpg">
+
+_collages, vaiable dimensions_
 
 <img src="/public/colagens fata morgana+montanha ponte.jpg">
 
@@ -20,6 +24,10 @@ title: Actos remotos
 <img src="/public/fata morgana 2 portfolio.jpg">
 
 <img src="/public/colagem chines 2 frames.jpg">
+
+_C-prints, variable dimensions_
+
+<img src="/public/2velas pyromagnet portfolio1.jpg">
 
 <img src="/public/2velas pyromagnet portfolio.jpg">
 
