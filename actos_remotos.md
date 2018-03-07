@@ -23,7 +23,7 @@ title: Actos remotos
 
 <img src="/public/2velas pyromagnet portfolio.jpg">
 
-<img src="/public/mirage flugplatz werneuchen portfolio.jpg>
+<img src="/public/mirage flugplatz werneuchen portfolio.jpg">
 
 <img src="/public/o estereoscopista2b portfolio.jpg">
 
