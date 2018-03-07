@@ -24,11 +24,15 @@ _Centro Cultural Montehermoso 2011_
 
 <img src="/public/fonte nuvens portfolio.jpg">
 
-<img src="/public/solaris sol pupila_2 portfolio.jpg">
+_"Remote acts", c-prints, variable dimensions_
+
+<img src="/public/pupile and pinhole.png">
 
 <img src="/public/pinhole espelho final portfolio.jpg">
 
-_"Remote acts", c-prints, variable dimensions_
+_"Pupile and Pinhole", 70x70cm, 80x100cm,  
+
+
 
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
