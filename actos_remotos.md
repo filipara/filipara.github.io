@@ -27,13 +27,9 @@ _"Film in film", 16mm projection (loop)_
 
 <img src="/public/colagem chines 2 frames.jpg">
 
-_"artifical satelite", collage, 25x30cm wood frame_
-
 <img src="/public/fata morgana 1 portfolio.jpg">
 
 <img src="/public/fata morgana 2 portfolio.jpg">
-
-_"artificial satelite", collage, details_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
