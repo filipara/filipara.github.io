@@ -31,6 +31,10 @@ _C-prints, variable dimensions_
 
 _HD Video on television, 9:12, sound, loop_
 
+<img src="/public/Screen Shot 2018-03-07 at 12.06.45.png">
+
+_Pivô, Solo show, Institute for contemporary art Newtown, Sydney 2009_
+
 <img src="/public/video vela.jpg">
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
