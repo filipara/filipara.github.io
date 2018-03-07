@@ -3,9 +3,6 @@ layout: page
 title: Actos remotos
 ---
 
-<img src="/public/sombra sem fila 2.jpg">
-
-
 _Centro Cultural Montehermoso 2011_
 
 <img src="/public/actos remotos geral(7).jpg">
