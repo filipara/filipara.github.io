@@ -5,13 +5,13 @@ title: Actos remotos
 
 <img src="/public/actos remotos geral(7).jpg">
 
-<img src="/public/actos remotos geral(4).jpg">
-
-<img src="/public/actos remotos geral (5).jpg">
-
 _Centro Cultural Montehermoso 2011_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+
+<img src="/public/actos remotos geral (5).jpg">
+
+_Installation view_
 
 <img src="/public/cascata gelada small.jpg">
 
@@ -46,6 +46,8 @@ _"artificial satelite", detail_
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
 _C-prints, variable dimensions_
+
+<img src="/public/actos remotos geral(4).jpg">
 
 <img src="/public/farrallyHall final 100x155_bea 40x25 para PILAR.jpg">
 
