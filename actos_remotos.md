@@ -11,7 +11,7 @@ _Centro Cultural Montehermoso 2011_
 
 <img src="/public/actos remotos geral (5).jpg">
 
-_"Filmstrip", 16mm projection (loop)_
+_"Film in film", 16mm projection (loop)_
 
 <img src="/public/cascata gelada small.jpg">
 
