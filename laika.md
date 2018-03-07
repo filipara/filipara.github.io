@@ -1,6 +1,6 @@
 ---
 layout: page
-title: лаика
+title: Laika
 ---
 
 **2012-2013**
