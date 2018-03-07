@@ -11,11 +11,11 @@ _Centro Cultural Montehermoso 2011_
 
 <img src="/public/actos remotos geral (5).jpg">
 
-_16mm projection (loop)_
+_"Filmstrip", 16mm projection (loop)_
 
 <img src="/public/cascata gelada small.jpg">
 
-_collages, variable dimensions_
+_"satélite artifical", collages, variable dimensions_
 
 <img src="/public/colagens fata morgana+montanha ponte.jpg">
 
@@ -29,7 +29,7 @@ _collages, variable dimensions_
 
 <img src="/public/fata morgana 2 portfolio.jpg">
 
-_C-prints, variable dimensions_
+_"Actos remotos", C-prints, variable dimensions_
 
 <img src="/public/farrallyHall final 100x155_bea 40x25 para PILAR.jpg">
 
