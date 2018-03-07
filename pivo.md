@@ -33,9 +33,9 @@ _Institute for contemporary art Newtown, solo show, Sydney 2009_
 
 <img src="/public/Screen Shot 2018-03-07 at 12.13.16.png">
 
-<img src="/public/video vela.jpg">
-
 _HD Video on television, 9:12, sound, loop_
+
+<img src="/public/video vela.jpg">
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
