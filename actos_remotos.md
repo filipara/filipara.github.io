@@ -15,20 +15,20 @@ title: Actos remotos
 
 <img src="/public/colagens parede.jpg">
 
-<img src="/public/fata morgana 1 portfolio.jpg"
+<img src="/public/fata morgana 1 portfolio.jpg">
 
-<img src="/public/fata morgana 2 portfolio.jpg"
+<img src="/public/fata morgana 2 portfolio.jpg">
 
-<img src="/public/colagem chines 2 frames.jpg"
+<img src="/public/colagem chines 2 frames.jpg">
 
-<img src="/public/2velas pyromagnet portfolio.jpg"
+<img src="/public/2velas pyromagnet portfolio.jpg">
 
-<img src="/public/mirage flugplatz werneuchen portfolio.jpg
+<img src="/public/mirage flugplatz werneuchen portfolio.jpg>
 
-<img src="/public/o estereoscopista2b portfolio.jpg"
+<img src="/public/o estereoscopista2b portfolio.jpg">
 
-<img src="/public/fonte nuvens portfolio.jpg"
+<img src="/public/fonte nuvens portfolio.jpg">
 
-<img src="/public/solaris sol pupila_2 portfolio.jpg"
+<img src="/public/solaris sol pupila_2 portfolio.jpg">
 
-<img src="/public/pinhole espelho final portfolio.jpg"
+<img src="/public/pinhole espelho final portfolio.jpg">
