@@ -2,7 +2,6 @@
 layout: page
 title: Pivô
 ---
-**2006-2007**  
 
 <img src="/public/Screen Shot 2018-03-07 at 11.52.02.png">
 
