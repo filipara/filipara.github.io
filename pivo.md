@@ -4,6 +4,10 @@ title: Pivô
 ---
 **2006-2007**  
 
+<img src="/public/Screen Shot 2018-03-07 at 11.52.02.png">
+
+_"When a clock is seen from the side it no longer tells the time", König Galerie, 2009_
+
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
 _C-prints, variable dimensions_
