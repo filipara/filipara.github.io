@@ -3,17 +3,25 @@ layout: page
 title: Actos remotos
 ---
 
+<img src="/public/actos remotos geral(7).jpg">
+
 _Centro Cultural Montehermoso 2011_
 
-<img src="/public/actos remotos geral(7).jpg">
+<img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
 <img src="/public/actos remotos geral(4).jpg">
 
 <img src="/public/actos remotos geral (5).jpg">
 
+_show views_
+
+<img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+
 <img src="/public/cascata gelada small.jpg">
 
 _"Film in film", 16mm projection (loop)_
+
+<img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
 <img src="/public/colagens fata morgana+montanha ponte.jpg">
 
@@ -29,7 +37,7 @@ _"Untitled (satélite artifical)"_
 
 <img src="/public/colagem chines 2 frames.jpg">
 
-_"artifical satelite", collage, 25x30cm wood frame _
+_"artifical satelite", collage, 25x30cm wood frame_
 
 <img src="/public/fata morgana 1 portfolio.jpg">
 
@@ -39,7 +47,9 @@ _"artificial satelite", detail_
 
 _"artificial satelite", detail_
 
-_"Actos remotos", C-prints, variable dimensions_
+<img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+
+_C-prints, variable dimensions_
 
 <img src="/public/farrallyHall final 100x155_bea 40x25 para PILAR.jpg">
 
