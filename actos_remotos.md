@@ -11,23 +11,33 @@ _Centro Cultural Montehermoso 2011_
 
 <img src="/public/actos remotos geral (5).jpg">
 
-_"Film in film", 16mm projection (loop)_
-
 <img src="/public/cascata gelada small.jpg">
 
-_"satélite artifical", collages, variable dimensions_
+_"Film in film", 16mm projection (loop)_
 
 <img src="/public/colagens fata morgana+montanha ponte.jpg">
 
+_"Untitled (satélite artifical)", collages, wood frame, variable dimensions_
+
 <img src="/public/actos remotos geral (1).jpg">
+
+_Installation view_
 
 <img src="/public/colagens parede.jpg">
 
+_"Untitled (satélite artifical)"_
+
 <img src="/public/colagem chines 2 frames.jpg">
+
+_"Untitled (satélite artifical)", collage, 25x30cm wood frame _
 
 <img src="/public/fata morgana 1 portfolio.jpg">
 
+_Detail_
+
 <img src="/public/fata morgana 2 portfolio.jpg">
+
+_Detail_
 
 _"Actos remotos", C-prints, variable dimensions_
 
