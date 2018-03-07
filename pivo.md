@@ -29,7 +29,7 @@ _C-prints, variable dimensions_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
-<img src="/public/Screen Shot 2018-03-07 at 12.06.45.png">
+<img src="/public/Screen Shot 2018-03-07 at 12.13.16.png">
 
 _Solo show, Institute for contemporary art Newtown, Sydney 2009_
 
