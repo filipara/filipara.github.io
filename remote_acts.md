@@ -9,8 +9,6 @@ _Centro Cultural Montehermoso 2011_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
-**"Remote acts", c-prints, variable dimensions**
-
 <img src="/public/actos remotos geral(4).jpg">
 
 <img src="/public/farrallyHall final 100x155_bea 40x25 para PILAR.jpg">
@@ -26,6 +24,9 @@ _Centro Cultural Montehermoso 2011_
 <img src="/public/solaris sol pupila_2 portfolio.jpg">
 
 <img src="/public/pinhole espelho final portfolio.jpg">
+
+_"Remote acts", c-prints, variable dimensions_
+
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
