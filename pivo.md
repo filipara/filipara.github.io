@@ -39,18 +39,18 @@ _Institute for contemporary art Newtown, solo show, Sydney 2009_
 
 <img src="/public/video vela.jpg">
 
-_"The flame", HD Video on television, 9:12, sound, loop_ 
+_"Flame", HD Video on television, 9:12, sound, loop_ 
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
 <img src="/public/super8 mesa.jpg">
 
-_"The shooting" Super 8 Film projection, black and white, no sound, loop_
+_"Shooting" Super 8 Film projection, black and white, no sound, loop_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
 <img src="/public/Screen Shot 2018-03-07 at 14.16.40.png">
 
-_"the road", Super 8 Filmstrip, light table, magnifying glass_
+_"Road", Super 8 Filmstrip, light table, magnifying glass_
 
 
