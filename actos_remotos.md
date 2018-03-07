@@ -27,9 +27,9 @@ _collages, vaiable dimensions_
 
 _C-prints, variable dimensions_
 
-<img src="/public/2velas pyromagnet portfolio1.jpg">
-
 <img src="/public/2velas pyromagnet portfolio.jpg">
+
+<img src="/public/2velas pyromagnet portfolio1.jpg">
 
 <img src="/public/mirage flugplatz werneuchen portfolio.jpg">
 
