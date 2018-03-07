@@ -3,7 +3,7 @@ layout: page
 title: Pivô
 ---
 
-<img src="/public/Screen Shot 2018-03-07 at 11.52.02.png">
+<img src="/public/Screen Shot 2018-03-07 at 11.52.02.jpg">
 
 _"When a clock is seen from the side it no longer tells the time", König Galerie, 2009_
 
