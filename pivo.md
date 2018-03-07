@@ -29,7 +29,7 @@ _"When a clock is seen from the side it no longer tells the time", König Galeri
 
 <img src="/public/2017 madrid barajas limpo.jpg">
 
-_C-prints, variable dimensions_
+_"untitled", C-prints, variable dimensions_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
