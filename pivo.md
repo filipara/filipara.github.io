@@ -23,11 +23,10 @@ _C-prints, variable dimensions_
 
 <img src="/public/2017 madrid barajas limpo.jpg">
 
+<img src="/public/video vela.jpg">
 
 _HD Video on television, 9:12, sound, loop_
 
-<img src="/public/video vela.jpg">
+<img src="/public/super8 mesa.jpg">
 
 _Super 8 Film projection, black and white, no sound, loop_
-
-<img src="/public/super8 mesa.jpg">
