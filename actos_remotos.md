@@ -11,13 +11,7 @@ _Centro Cultural Montehermoso 2011_
 
 <img src="/public/actos remotos geral (5).jpg">
 
-_C-print 100x145cm_
-
-<img src="/public/farrallyHall final 100x155_bea 40x25 para PILAR.jpg">
-
 _16mm projection (loop)_
-
-<img src="/public/actos remotos expo fotos+16mm.jpg">
 
 <img src="/public/cascata gelada small.jpg">
 
@@ -36,6 +30,8 @@ _collages, vaiable dimensions_
 <img src="/public/colagem chines 2 frames.jpg">
 
 _C-prints, variable dimensions_
+
+<img src="/public/farrallyHall final 100x155_bea 40x25 para PILAR.jpg">
 
 <img src="/public/2velas pyromagnet portfolio.jpg">
 
