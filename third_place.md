@@ -33,6 +33,6 @@ _35mm slide projection, b/w, loop_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
-_c-print (60x75cm)_
+_C-print (60x75cm)_
 
 <img src="/public/35arvore voa cor.jpg">
