@@ -3,7 +3,7 @@ layout: page
 title: Laika
 ---
 
-**2012-2013**
+**2012**
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
