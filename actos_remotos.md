@@ -7,6 +7,24 @@ title: Remote acts
 
 _Centro Cultural Montehermoso 2011_
 
+**"Remote acts", c-prints, variable dimensions**
+
+<img src="/public/actos remotos geral(4).jpg">
+
+<img src="/public/farrallyHall final 100x155_bea 40x25 para PILAR.jpg">
+
+<img src="/public/2velas pyromagnet portfolio.jpg">
+
+<img src="/public/mirage flugplatz werneuchen portfolio.jpg">
+
+<img src="/public/o estereoscopista2b portfolio.jpg">
+
+<img src="/public/fonte nuvens portfolio.jpg">
+
+<img src="/public/solaris sol pupila_2 portfolio.jpg">
+
+<img src="/public/pinhole espelho final portfolio.jpg">
+
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
 <img src="/public/actos remotos geral (5).jpg">
@@ -32,21 +50,3 @@ _"Film in film", 16mm projection (loop)_
 <img src="/public/fata morgana 2 portfolio.jpg">
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
-
-**"Remote acts", c-prints, variable dimensions**
-
-<img src="/public/actos remotos geral(4).jpg">
-
-<img src="/public/farrallyHall final 100x155_bea 40x25 para PILAR.jpg">
-
-<img src="/public/2velas pyromagnet portfolio.jpg">
-
-<img src="/public/mirage flugplatz werneuchen portfolio.jpg">
-
-<img src="/public/o estereoscopista2b portfolio.jpg">
-
-<img src="/public/fonte nuvens portfolio.jpg">
-
-<img src="/public/solaris sol pupila_2 portfolio.jpg">
-
-<img src="/public/pinhole espelho final portfolio.jpg">
