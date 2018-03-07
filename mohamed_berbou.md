@@ -3,7 +3,7 @@ layout: page
 title: Mohamed Berbou
 ---
 
-**HD Video, c-prints, Morocco 2012-13**
+**2012-13**
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
