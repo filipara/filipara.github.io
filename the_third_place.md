@@ -29,10 +29,10 @@ _Banff Center for the arts, Canada, 2008_
 
 <img src="/public/15 escombros 1+2maq Kopie.jpg">
 
-<img src="/public/04sugadorgases-2.jpg"
+<img src="/public/04sugadorgases-2.jpg">
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
-**C-print (60x75cm)**
-
 <img src="/public/35arvore voa cor.jpg">
+
+_C-print, 60x75cm_
