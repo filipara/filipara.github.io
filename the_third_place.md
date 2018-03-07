@@ -3,13 +3,13 @@ layout: page
 title: The third place
 ---
 
-_Banff Center for the arts, Canada, 2008_
-
 <img src="/public/Screen Shot 2018-03-07 at 14.16.22.png">
+
+_Banff Center for the arts, Canada, 2008_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
-_35mm slide projection, b/w, loop_
+**35mm slide projection, b/w, loop**
 
 <img src="/public/01casco_submarino+fumo_focado.jpg">
 
@@ -33,6 +33,6 @@ _35mm slide projection, b/w, loop_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
-_C-print (60x75cm)_
+**C-print (60x75cm)**
 
 <img src="/public/35arvore voa cor.jpg">
