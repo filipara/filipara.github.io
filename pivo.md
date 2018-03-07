@@ -2,7 +2,7 @@
 layout: page
 title: Pivô
 ---
-** Photography, Super 8 film, 16mm film, HD video, 2006-2007**  
+**2006-2007**  
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
