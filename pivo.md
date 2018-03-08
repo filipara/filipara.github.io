@@ -9,9 +9,11 @@ title: Pivô
 
 <img src="/public/Screen Shot 2018-03-07 at 11.52.02.jpg">
 
-_"When a clock is seen from the side it no longer tells the time", König Galerie, 2009_
+_Show view: "When a clock is seen from the side it no longer tells the time", König Galerie, 2009_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+
+**_Untitled_ C-prints, variable dimensions**
 
 <img src="/public/vela.jpg">
 
@@ -29,7 +31,6 @@ _"When a clock is seen from the side it no longer tells the time", König Galeri
 
 <img src="/public/2017 madrid barajas limpo.jpg">
 
-_"untitled", C-prints, variable dimensions_
 
 
 
