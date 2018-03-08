@@ -5,7 +5,7 @@ title: Laika
 
 **2012**
 
-**_Ла́йка_ c-prints, variable dimensions**
+**_Ла́йка_, c-prints, variable dimensions**
 
 <img src="/public/tira branca fina.png">
 
