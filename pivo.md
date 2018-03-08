@@ -5,7 +5,7 @@ title: Pivô
 
 **2006-2008**
 
-<img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+<img src="/public/tira branca fina.png">
 
 <img src="/public/Screen Shot 2018-03-07 at 11.52.02.jpg">
 
