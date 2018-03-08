@@ -5,7 +5,7 @@ title: road shooting candle
 
 **2006-2008**
 
-<img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+<img src="/public/tira branca fina.png">
 
 <img src="/public/Screen Shot 2018-03-07 at 12.13.16.png">
 
@@ -17,13 +17,13 @@ _Show view: Institute for contemporary art Newtown, solo show, Sydney 2009_
 
 <img src="/public/video vela.jpg">
 
-<img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+<img src="/public/tira branca fina.png">
 
 **_Shooting_, Super 8 Film, black and white, no sound, loop**
 
 <img src="/public/super8 mesa.jpg">
 
-<img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+<img src="/public/tira branca fina.png">
 
 **_Road_, Super 8 Filmstrip, light table, magnifying glass**
 
