@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Laika
+title: VI
 ---
 
 **2012**
