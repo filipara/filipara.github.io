@@ -13,7 +13,7 @@ _Show view: Banff Center for the arts, Canada, 2008_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
-**_The third place_ Series of 35mm slide projection, b/w, loop**
+**_The third place_, Series of 35mm slide projection, b/w, loop**
 
 <img src="/public/01casco_submarino+fumo_focado.jpg">
 
