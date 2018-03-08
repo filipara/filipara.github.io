@@ -8,9 +8,11 @@ title: Remote acts
 
 <img src="/public/actos remotos geral(7).jpg">
 
-_Centro Cultural Montehermoso 2011_
+_Show view: Centro Cultural Montehermoso, 2011_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+
+**_Remote acts_, c-prints, variable dimensions**
 
 <img src="/public/actos remotos geral(4).jpg">
 
@@ -24,20 +26,20 @@ _Centro Cultural Montehermoso 2011_
 
 <img src="/public/fonte nuvens portfolio.jpg">
 
-_"Remote acts", c-prints, variable dimensions_
+**_Chorus_, c-print, 70x80cm**
 
 <img src="/public/fila sombra portfolio.jpg">
 
-_Chorus, c-print, 70x80cm_
+**_Pupile and Pinhole_, c-prints, 50x50cm, 80x100cm**  
 
 <img src="/public/pupile and pinhole.png">
 
 <img src="/public/pinhole espelho final portfolio.jpg">
 
-_"Pupile and Pinhole", c-prints, 50x50cm, 80x100cm_  
 
 
 
+**_Cascade of an image_, 16mm projection, loop**
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
@@ -45,9 +47,9 @@ _"Pupile and Pinhole", c-prints, 50x50cm, 80x100cm_
 
 <img src="/public/cascata gelada small.jpg">
 
-_"Film in film", 16mm projection, loop_
-
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+
+**_Artificial satelite_, collages, variable dimensions**
 
 <img src="/public/colagens fata morgana+montanha ponte.jpg">
 
@@ -60,7 +62,3 @@ _"Film in film", 16mm projection, loop_
 <img src="/public/fata morgana 1 portfolio.jpg">
 
 <img src="/public/fata morgana 2 portfolio.jpg">
-
-_"Artificial satelite", collages, variable dimensions_
-
-
