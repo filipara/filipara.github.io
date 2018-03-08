@@ -5,7 +5,7 @@ title: The third place
 
 **2008-2009**
 
-<img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+<img src="/public/tira branca fina.png">
 
 <img src="/public/Screen Shot 2018-03-07 at 14.16.22.png">
 
@@ -34,7 +34,6 @@ _Show view: Banff Center for the arts, Canada, 2008_
 <img src="/public/15 escombros 1+2maq Kopie.jpg">
 
 <img src="/public/04sugadorgases-2.jpg">
-
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
