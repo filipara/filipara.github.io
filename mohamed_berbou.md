@@ -7,6 +7,8 @@ title: Mohamed Berbou
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
+**_Film sets by Mohamed Berbou_, c-prints, variable dimensions**
+
 <img src="/public/altar de mohamed.jpg">
 
 <img src="/public/Mohamed.jpg">
@@ -27,12 +29,10 @@ title: Mohamed Berbou
 
 <img src="/public/casas fantasma maroc.jpg">
 
-_"Film sets by Mohamed", c-prints, variable dimensions_
-
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+
+**_Mirari_, HD Video Pal, sound, 43min., Morocco**
 
 <img src="/public/mirari frames1.jpg">
 
 <img src="/public/mirari frames2.jpg">
-
-_HD Video, sound, 43min._
