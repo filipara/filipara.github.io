@@ -5,9 +5,11 @@ title: The third place
 
 **2008-2009**
 
+<img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+
 <img src="/public/Screen Shot 2018-03-07 at 14.16.22.png">
 
-_Banff Center for the arts, Canada, 2008_
+_Show view: Banff Center for the arts, Canada, 2008_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
