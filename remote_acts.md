@@ -4,7 +4,7 @@ title: Remote acts
 ---
 **2010-2011**
 
-<img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+<img src="/public/tira branca fina.png">
 
 <img src="/public/actos remotos geral(7).jpg">
 
@@ -26,18 +26,19 @@ _Show view: Centro Cultural Montehermoso, 2011_
 
 <img src="/public/fonte nuvens portfolio.jpg">
 
+<img src="/public/tira branca fina.png">
+
 **_Chorus_, c-print, 70x80cm**
 
 <img src="/public/fila sombra portfolio.jpg">
+
+<img src="/public/tira branca fina.png">
 
 **_Pupile and Pinhole_, c-prints, 50x50cm, 80x100cm**  
 
 <img src="/public/pupile and pinhole.png">
 
 <img src="/public/pinhole espelho final portfolio.jpg">
-
-
-
 
 **_Cascade of an image_, 16mm projection, loop**
 
