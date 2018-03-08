@@ -13,6 +13,8 @@ _Show view: Banff Center for the arts, Canada, 2008_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
+**_The third place_ Series of 35mm slide projection, b/w, loop**
+
 <img src="/public/01casco_submarino+fumo_focado.jpg">
 
 <img src="/public/02arvore sombra Kopie.jpg">
@@ -33,10 +35,10 @@ _Show view: Banff Center for the arts, Canada, 2008_
 
 <img src="/public/04sugadorgases-2.jpg">
 
-_Series of 35mm slide projection, b/w, loop_
 
 <img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
 
+**_Untitled_ C-print, 70x85cm_**
+
 <img src="/public/35arvore voa cor.jpg">
 
-_C-print, 60x75cm_
