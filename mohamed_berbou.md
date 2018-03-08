@@ -5,7 +5,7 @@ title: Mohamed Berbou
 
 **2013**
 
-<img src="/public/Screen Shot 2018-03-07 at 11.43.36.png">
+<img src="/public/tira branca fina.png">
 
 **_Film sets by Mohamed Berbou_, c-prints, variable dimensions**
 
