@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The third place
+title: III
 ---
 
 **2008-2009**
